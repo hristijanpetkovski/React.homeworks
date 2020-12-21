@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+}
+.nav-item{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;;
+}
+.nav-item li{
+ color:black;
+}
+
+.homeworks{
+  background:chocolate
+}
+
+.student-card{
+  align-items:center;
+  background:#7aeb7a;
+  max-width:450px;
+  border: 2px solid black;
+  border-radius:20px;
+  margin:0 auto;
+  margin-top:60px;
+}
+h2{
+  text-align:center;
+}
+.img{
+  text-align: center;
+  padding:10px; 
+}
+.img img{
+  border-radius: 10px;
+}
