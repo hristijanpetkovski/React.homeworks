@@ -16,6 +16,9 @@ const Nav = () => {
         <Link to="/homework3" style={{textDecoration: 'none'}}>
         <li>Homework 3</li>
         </Link>
+        <Link to="/homework4" style={{textDecoration: 'none'}}>
+        <li>Homework 4</li>
+        </Link>
       </ul>
     </nav>
   );

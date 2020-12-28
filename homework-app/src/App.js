@@ -6,6 +6,7 @@ import Homework2 from './pages/homework2';
 import Homework3 from './pages/homework3';
 
 import './App.css';
+import Homework4 from './pages/homewrok4';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      <Route path="/homework1" component={Homework1}/>
      <Route path="/homework2" component={Homework2}/>
      <Route path="/homework3" component={Homework3}/>
+     <Route path="/homework4" component={Homework4}/>
      </Switch>
      
    </div> 
